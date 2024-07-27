@@ -6,7 +6,7 @@ jump @EncryptMax
 
 :EncryptMax
 nop 
-jump @SensTouchRN24 //Modify it
+jump @Label1 //Modify it
 //Change write debug to 0662: printstring "YourText" if you are using the old sanny Builder
 write_debug "YourText" //Modify it
 write_debug "YourText" //Modify it
