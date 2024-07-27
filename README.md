@@ -8,3 +8,12 @@ That is, you need to disable "Add Extra Social Info" in Sanny Builder settings, 
 
 **Conclusion**
 Encrypt cleo source code helps protect the work from unauthorized use or distribution, but other users or developers may have difficulty understanding or correcting errors if the code cannot be accessed or modified.
+
+**Author**
+AdlanWolf, Rahmat52/Kiraze, Axel Blaze
+
+**My Social Media**
+https://sanandreasmixmod.blogspot.com/?m=1
+https://open.spotify.com/user/316kdr7qdazf42s2ga3ocljbnxgu?si=mggHed1wSbGBigGuIfjuFw
+https://youtube.com/@jessepinkman24?si=aYrjgcePagU5dKTs
+https://x.com/AxelBlazeInd?t=wUq4y_ru6PkjSj-xOoi5YA&s=09
