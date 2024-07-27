@@ -402,5 +402,5 @@ end
 
 :_zxRMxEncryptProctectionTypeB
 hex
-"_zxR.MxEncryptProctectionTypeB" 00 
+    "_zxR.MxEncryptProctectionTypeB" 00 
 end
