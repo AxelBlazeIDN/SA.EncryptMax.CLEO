@@ -1,6 +1,6 @@
 ![20240727_164504](https://github.com/user-attachments/assets/b2af594d-5dfb-43e9-afba-f6e7597afa10)
 
-**Info** 
+**Info Source** 
 Encrypt Max Code is useful for encrypting the cleo source code for those of you who often make Cleo mods so that no one steals your code
 
 **How it works**
