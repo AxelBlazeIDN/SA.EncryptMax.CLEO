@@ -11,7 +11,6 @@ write_debug "You won't be able to compile cleo on this one locked"
 write_debug "if possible the cleo code is broken and not messed up" 
 write_debug "You won't be able to steal or re-edit this cleo Lol" 
 write_debug "Encrypted By Axel Blaze" 
-write_debug "Do you know? Inside each atom there is a huge vacuum. If the atomic nucleus were a small, pea-sized ball in the middle of a football stadium, the electrons would be at the edges of the stadium, and the space between them would be a vacuum. This means that most of the matter we think of as solid is actually empty space." 
 script_name "Òÿÿ{ÿ èÿ{ÿÿèÿÿ�;9�<87e'0 1/��.-�*¿ Sa ÃndrôīD GäMÊ mÖD èÿ(�='&Tÿèÿÿÿÿÿ{þÿÿÿîƒMèÿ{ÿÿþÿB>@?:<�;9�<87e'0 1/��.-�*(�='&Tÿÿîƒ{M Òÿÿÿè{ÿÿÿ ¿4956392"
 0DD0: EncryptCodeA = get_label_addr -6289 // android 
 0DD0: EncryptCodeA = get_label_addr @_zxRMxEncryptProctectionTypeB // android 
