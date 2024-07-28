@@ -360,7 +360,7 @@ end
     jf @Blaze
     0581: enable_radar 1
     0826: enable_hud 0
-return
+jump @Blaze
 
 :Blaze
     wait 0
@@ -369,7 +369,7 @@ return
     jf @Axel
     0581: enable_radar 0
     0826: enable_hud 1
-return
+jump @Axel
 
 hex
 66 89 06 FF 0D 0A 2F 2F 20 00 00 00 00 5F 5F 53
