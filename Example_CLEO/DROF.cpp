@@ -8,7 +8,7 @@ jump @Axel
 0662: printstring "if possible the cleo code is broken and not messed up" 
 0662: printstring "You won't be able to steal or re-edit this cleo Lol" 
 0662: printstring "Encrypted By Axel Blaze" 
-{$Include Include\Encrypt_1.h}
+{$Include Includes\Encrypt_1.h}
 
 // This example cleo script was created by Axel Blaze
 // SanAndreasMixMod.blogspot.com
@@ -31,4 +31,4 @@ jump @Blaze
     0826: enable_hud 1
 jump @Axel
 
-{$Include Include\Encrypt_2.h}
+{$Include Includes\Encrypt_2.h}
