@@ -1,4 +1,5 @@
 {$CLEO .csa}
+jump @EncryptMax
 
 :EncryptMax
 0000: NOP
