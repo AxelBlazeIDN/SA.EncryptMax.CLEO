@@ -1,10 +1,8 @@
-int EncryptCodeA, EncryptCodeB
-
-0DD0: EncryptCodeA = get_label_addr -6289 // android 
-0DD0: EncryptCodeA = get_label_addr @_zxRMxEncryptProctectionTypeB // android 
-0DD0: EncryptCodeA = get_label_addr @EncryptCode // android 
-0DD1: EncryptCodeA = get_func_addr_by_cstr_name EncryptCodeA // android 
-0DD8: EncryptCodeB = read_mem_addr EncryptCodeA size 1 add_ib 0 // android 
+0DD0: 1@ = get_label_addr -6289 // android 
+0DD0: 1@ = get_label_addr @_zxRMxEncryptProctectionTypeB // android 
+0DD0: 1@ = get_label_addr @EncryptCode // android 
+0DD1: 1@ = get_func_addr_by_cstr_name EncryptCodeA // android 
+0DD8: 2@ = read_mem_addr 1@ size 1 add_ib 0 // android 
 hex
 C6 B8 7B C7 C5 0A C5 C4 C3 BF C0 BE 03 BE BD BC
 E1 AC B7 3B 15 4E B4 B0 97 B1 AC AB AA AC A8 AA
