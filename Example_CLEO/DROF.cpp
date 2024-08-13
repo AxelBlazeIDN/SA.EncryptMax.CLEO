@@ -2,12 +2,12 @@
 jump @EncryptMax
 
 :EncryptMax
-0000: NOP
-jump @Axel
-0662: printstring "You won't be able to compile cleo on this one locked" 
-0662: printstring "if possible the cleo code is broken and not messed up" 
-0662: printstring "You won't be able to steal or re-edit this cleo Lol" 
-0662: printstring "Encrypted By Axel Blaze" 
+    0000: NOP
+    jump @Axel
+    0662: printstring "You won't be able to compile cleo on this one locked" 
+    0662: printstring "if possible the cleo code is broken and not messed up" 
+    0662: printstring "You won't be able to steal or re-edit this cleo Lol" 
+    0662: printstring "Encrypted By Axel Blaze" 
 {$Include Includes\Encrypted_1.h}
 
 // This example cleo script was created by Axel Blaze
