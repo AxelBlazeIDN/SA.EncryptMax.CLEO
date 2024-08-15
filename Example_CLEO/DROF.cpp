@@ -13,6 +13,7 @@ jump @EncryptMax
 // This example cleo script was created by Axel Blaze
 // SanAndreasMixMod.blogspot.com
 int AxelBlaze
+
 :Axel
     wait 0
     if
