@@ -1,25 +1,20 @@
-{$CLEO .csa} //Modify it
-
-int EncryptCodeA, EncryptCodeB //Delete and Convert to Number Variable If You Are Using old Sanny Builder
-
+{$CLEO .csa}
 jump @EncryptMax
 
 :EncryptMax
-nop 
-jump @Label1 //Modify it
-//Change write debug to 0662: printstring "YourText" if you are using the old sanny Builder
-write_debug "YourText" //Modify it
-write_debug "YourText" //Modify it
-write_debug "YourText" //Modify it
-write_debug "YourText" //Modify it
-write_debug "YourText" //Modify it
-//change "script_name" to "thread" if you are using old sanny builder
-script_name "Òÿÿ{ÿ èÿ{ÿÿèÿÿ�;9�<87e'0 1/��.-�*¿ Sa ÃndrôīD GäMÊ mÖD èÿ(�='&Tÿèÿÿÿÿÿ{þÿÿÿîƒMèÿ{ÿÿþÿB>@?:<�;9�<87e'0 1/��.-�*(�='&Tÿÿîƒ{M Òÿÿÿè{ÿÿÿ ¿4956392"
-0DD0: EncryptCodeA = get_label_addr -6289 // android 
-0DD0: EncryptCodeA = get_label_addr @_zxRMxEncryptProctectionTypeB // android 
-0DD0: EncryptCodeA = get_label_addr @EncryptCode // android 
-0DD1: EncryptCodeA = get_func_addr_by_cstr_name EncryptCodeA // android 
-0DD8: EncryptCodeB = read_mem_addr EncryptCodeA size 1 add_ib 0 // android 
+0000: NOP 
+jump @Label1 
+0662: printstring "YourText"
+0662: printstring "YourText"
+0662: printstring "YourText"
+0662: printstring "YourText"
+0662: printstring "YourText"
+thread "Òÿÿ{ÿ èÿ{ÿÿèÿÿ�;9�<87e'0 1/��.-�*¿ Sa ÃndrôīD GäMÊ mÖD èÿ(�='&Tÿèÿÿÿÿÿ{þÿÿÿîƒMèÿ{ÿÿþÿB>@?:<�;9�<87e'0 1/��.-�*(�='&Tÿÿîƒ{M Òÿÿÿè{ÿÿÿ ¿4956392"
+0DD0: 1@ = get_label_addr -6289 // android 
+0DD0: 1@ = get_label_addr @_zxRMxEncryptProctectionTypeB // android 
+0DD0: 1@ = get_label_addr @EncryptCode // android 
+0DD1: 1@ = get_func_addr_by_cstr_name 1@ // android 
+0DD8: 2@ = read_mem_addr 1@ size 1 add_ib 0 // android 
 hex
 C6 B8 7B C7 C5 0A C5 C4 C3 BF C0 BE 03 BE BD BC
 E1 AC B7 3B 15 4E B4 B0 97 B1 AC AB AA AC A8 AA
